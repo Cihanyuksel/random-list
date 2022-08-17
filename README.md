@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## Sources 
+[Source 1](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
+
+[Source 2](https://stackoverflow.com/questions/8125709/how-to-split-newline)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
